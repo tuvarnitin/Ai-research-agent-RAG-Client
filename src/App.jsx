@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom'
-import Home from './Home'
-import Chat from './Chat'
+import Home from './Pages/Home'
+import Chat from './Pages/Chat'
 import Lenis from 'lenis'
 
 // Initialize Lenis
